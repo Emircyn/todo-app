@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  body {
+    @apply dark:bg-[#121212] overflow-hidden transition-all;
+  }
+}
