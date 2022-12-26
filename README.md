@@ -6,7 +6,6 @@ This project is a todo app built with React. Users can create a todo list where 
 
 - Adding tasks: Users can add their tasks to the list using a form.
 - Deleting tasks: Users can delete tasks from the list once they are completed.
-- Filtering tasks: Users can view completed and incomplete tasks separately in the list.
 
 ## Usage guide
 
