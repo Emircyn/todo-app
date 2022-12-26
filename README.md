@@ -10,7 +10,7 @@ This project is a todo app built with Vite, React, and Tailwind. It allows users
 
 ## Demo
 
-You can try the app at this link: https://todo-app-virid-eight.vercel.app/
+You can try the app at this link: https://todo-app-virid-eight.vercel.app
 
 ## Usage guide
 
