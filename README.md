@@ -8,6 +8,10 @@ This project is a todo app built with Vite, React, and Tailwind. It allows users
 - Deleting tasks: Users can delete tasks from the list once they are completed.
 - Dark mode: Users can switch to a dark mode theme for the app.
 
+## Demo
+
+You can try the app at this link: https://todo-app-virid-eight.vercel.app/
+
 ## Usage guide
 
 To start using this app, follow these steps:
@@ -18,3 +22,4 @@ To start using this app, follow these steps:
 4. The app will open in your browser.
 
 Follow these steps to start using this app.
+
